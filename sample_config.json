@@ -1,0 +1,17 @@
+{
+  "gmail": {
+    "username": "USERNAME",
+    "password": "PASSWORD"
+  },
+  "twitter": {
+    "con_key": "CONSUMER_KEY",
+    "con_secret": "CONSUMER_SECRET_KEY",
+    "oauth_token": "OAUTH_TOKEN",
+    "oauth_secret": "OAUTH_TOKEN_SECRET",
+    "last_check": "TIMESTAMP (OPTIONAL)"
+  },
+  "facebook": {
+    "username": "USERNAME",
+    "oauth_token": "OAUTH_TOKEN"
+  }
+}
